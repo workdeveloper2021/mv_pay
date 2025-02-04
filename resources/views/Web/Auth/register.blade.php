@@ -19,7 +19,7 @@
     position: absolute;
     top: -50%;
     left: -50%;
-   
+    width: 100%;
     height: 420px;
     background: linear-gradient(0deg, transparent, transparent, #45f3ff, #45f3ff, #45f3ff);
     z-index: 1;
